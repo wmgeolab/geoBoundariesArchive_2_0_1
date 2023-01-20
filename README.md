@@ -10,7 +10,7 @@ r.json()
 - API now supports wildcard "ALL" for ADM, ISO or both.  Requesting ALL / ALL gives you a json with download links for all data in the database.
 - The website now links to this changelog.
 
-Version 2.0.0 ('Temerant'); Released 1/16/2020
+Version 2.0.0 ('Temerant'); Released 12/7/2019
 - A little late, but a big update!
 - New schema adopted to guarantee cross-boundary unique IDs across all versions of geoBoundaries.
 - New topology checks in place (Shapely)
